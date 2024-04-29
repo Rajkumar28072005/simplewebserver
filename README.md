@@ -87,7 +87,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![web-1](https://github.com/Rajkumar28072005/simplewebserver/assets/144980101/042a7c87-e3bd-4a88-a5f1-72e7dcedc765)
+![WhatsApp Image 2024-04-29 at 14 19 18_69ddbc35](https://github.com/Rajkumar28072005/simplewebserver/assets/144980101/48cefe97-9393-4e98-b6f9-1e8a341052ef)
 ![web-1(1)](https://github.com/Rajkumar28072005/simplewebserver/assets/144980101/70edb3fe-cd06-4d52-8f9a-89715d6126e0)
 
 
